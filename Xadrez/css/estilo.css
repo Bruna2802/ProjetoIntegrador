@@ -1,0 +1,94 @@
+@charset"UFT-8";
+
+body {
+    width: 1000px;
+    margin: 0 auto 0 auto;
+    background-color: darkgray;
+    
+}
+
+ul, li, a {
+    color: gainsboro;
+    display: inline;
+    padding-left: 35px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 20px;
+        
+}
+
+nav, ul, li, a:hover {
+     color: white;
+     
+}
+
+nav {margin-bottom: 10px;
+    background-color: dimgray;
+
+    
+}
+
+ p {
+    font-family: Times , serif;
+    font-size: 1.1em;
+    text-align: justify;
+
+}
+
+
+h1 {
+    font-weight:normal;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+h2 {
+   font-weight:normal;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 20px; 
+    text-align: center;
+}
+
+ h3 {
+   font-weight:normal;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 15px; 
+    text-align: left;
+ }
+
+    .livrosfilmes {
+    float: left;
+    width:500px;
+}
+
+.tab{
+    padding: 2px;
+    border: 1px solid black;
+    text-align: center;
+  
+}
+
+section {
+    width: 350px;
+    float:right;
+    margin-left: 0px;
+}
+    
+.mov {
+    margin-left: 100px;
+    margin-top: 50px;
+        
+    }
+#vocabulario{
+    width: 500px;
+    float: left;
+}
+    
+
+        
+
+    
